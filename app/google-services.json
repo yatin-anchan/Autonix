@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "261925129237",
+    "project_id": "autonix-2b828",
+    "storage_bucket": "autonix-2b828.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261925129237:android:91472071f8bcc4ea15121c",
+        "android_client_info": {
+          "package_name": "com.example.autonix_ridersafety"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj3mdiLKwCmh17N_E_Gxo6pf_uxqCHdMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261925129237:android:4d5da35be73ec94715121c",
+        "android_client_info": {
+          "package_name": "com.example.autonix_work_in_progress"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj3mdiLKwCmh17N_E_Gxo6pf_uxqCHdMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

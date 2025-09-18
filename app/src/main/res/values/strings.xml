@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">AUTONIX_RIDER SAFETY</string>
+    <string name="help_support"><![CDATA[Help & Support]]></string>
+    <!-- Trip Monitoring -->
+    <string name="trip_monitor">Trip Monitor</string>
+    <string name="start_trip">Start</string>
+    <string name="pause_trip">Pause</string>
+    <string name="resume_trip">Resume</string>
+    <string name="stop_trip">Stop</string>
+
+    <!-- Stats Labels -->
+    <string name="duration">Duration</string>
+    <string name="avg_speed">AVG Speed</string>
+    <string name="distance">Distance</string>
+    <string name="start_time">Start Time</string>
+    <string name="top_speed">Top Speed</string>
+    <string name="altitude">Altitude</string>
+    <string name="safety_score">Safety Score</string>
+
+    <!-- Units -->
+    <string name="mph">mph</string>
+    <string name="kmh">km/h</string>
+    <string name="miles">mi</string>
+    <string name="kilometers">km</string>
+    <string name="hours">hours</string>
+    <string name="feet">ft</string>
+    <string name="meters">m</string>
+
+    <!-- Safety Messages -->
+    <string name="drowsiness_detected">DROWSINESS DETECTED!\nTap screen to dismiss</string>
+    <string name="helmet_warning">No helmet detected. Please wear a helmet for your safety.</string>
+    <string name="emergency_message">EMERGENCY: Drowsiness detected during ride. Location: %1$s Time: %2$s</string>
+    <string name="auto_alert_countdown">Auto-alert in: %1$ds</string>
+
+    <!-- Trip Results -->
+    <string name="trip_complete">Trip Complete</string>
+    <string name="trip_started">Trip started</string>
+    <string name="trip_paused">Trip paused</string>
+    <string name="trip_resumed">Trip resumed</string>
+    <string name="trip_stopped">Trip stopped</string>
+    <string name="trip_data_saved">Trip data saved</string>
+    <string name="drowsiness_alarm_dismissed">Drowsiness alarm dismissed</string>
+    <string name="emergency_alerts_sent">Emergency alerts sent</string>
+
+    <!-- History -->
+    <string name="history">History</string>
+    <string name="no_trips">No trips recorded yet</string>
+
+    <!-- Permissions -->
+    <string name="location_permission_required">Location permission required</string>
+    <string name="camera_permission_required">Camera permission required for safety monitoring</string>
+    <string name="sms_permission_required">SMS permission required for emergency alerts</string>
+
+    <!-- Errors -->
+    <string name="failed_to_save_trip">Failed to save trip data: %1$s</string>
+    <string name="location_services_disabled">Location services are disabled</string>
+    <string name="gps_not_available">GPS not available</string>
+</resources>

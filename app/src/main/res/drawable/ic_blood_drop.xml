@@ -1,0 +1,16 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+
+    <!-- Main Blood Drop -->
+    <path
+        android:fillColor="#E53935"
+        android:pathData="M12,2C12,2 6,10 6,15c0,3.31 2.69,6 6,6s6,-2.69 6,-6c0,-5 -6,-13 -6,-13z" />
+
+    <!-- Highlight -->
+    <path
+        android:fillColor="#FFCDD2"
+        android:pathData="M12,4c0,0 -2,3 -2,5 0,2 2,4 2,4s2,-2 2,-4c0,-2 -2,-5 -2,-5z" />
+</vector>

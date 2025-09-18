@@ -1,0 +1,23 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp" android:height="24dp"
+    android:viewportWidth="24" android:viewportHeight="24">
+
+    <!-- Circle outline -->
+    <path
+        android:pathData="M12,2
+                          A10,10 0 1,1 12,22
+                          A10,10 0 1,1 12,2Z"
+        android:strokeColor="#FFFFFFFF"
+        android:strokeWidth="1"
+        android:fillColor="@android:color/transparent" />
+
+    <!-- "i" vertical line -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M11,10h2v8h-2z"/>
+
+    <!-- "i" dot -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M11,6h2v2h-2z"/>
+</vector>

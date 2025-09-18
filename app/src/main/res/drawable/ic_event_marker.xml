@@ -1,0 +1,16 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+
+    <!-- Outer circular background -->
+    <path
+        android:fillColor="#FF5722"
+        android:pathData="M12,2a10,10 0 1,0 0,20a10,10 0 1,0 0,-20z"/>
+
+    <!-- White star inside -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M12,6l1.76,3.57l3.94,0.57l-2.85,2.78l0.67,3.92L12,15.77l-3.52,1.85l0.67,-3.92l-2.85,-2.78l3.94,-0.57z"/>
+</vector>

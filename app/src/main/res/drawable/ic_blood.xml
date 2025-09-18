@@ -1,0 +1,18 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+
+    <!-- Blood drop shape -->
+    <path
+        android:fillColor="#D50000"
+        android:pathData="M12,2C9,7 6,10.5 6,15a6,6 0 0,0 12,0c0-4.5-3-8-6-13z" />
+
+    <!-- Highlight shine -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:fillAlpha="0.4"
+        android:pathData="M10,8c-1.5,2 -2.5,3.5 -2.5,5.5a4.5,4.5 0 0,0 4.5,4.5c1.5,0 2.5,-0.5 3.5,-1.5 -2,0.5 -5.5,-2 -5.5,-8.5z" />
+
+</vector>

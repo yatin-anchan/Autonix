@@ -1,0 +1,30 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+
+    <!-- Hexagon outline -->
+    <path
+        android:pathData="M24,2
+                          L42,12
+                          L42,36
+                          L24,46
+                          L6,36
+                          L6,12 Z"
+        android:strokeColor="#FFFF"
+        android:strokeWidth="3"
+        android:fillColor="@android:color/transparent"/>
+
+    <!-- Exclamation mark line -->
+    <path
+        android:pathData="M24,14 L24,30"
+        android:strokeColor="#FFFF"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"/>
+
+    <!-- Exclamation dot -->
+    <path
+        android:pathData="M24,36 A2,2 0 1,1 24,40 A2,2 0 1,1 24,36"
+        android:fillColor="#FFFF"/>
+</vector>

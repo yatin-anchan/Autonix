@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Custom Speedometer Attributes -->
+    <declare-styleable name="SpeedometerView">
+        <attr name="speedometerRadius" format="dimension" />
+        <attr name="speedometerStrokeWidth" format="dimension" />
+        <attr name="speedometerStrokeColor" format="color" />
+        <attr name="speedometerBackgroundColor" format="color" />
+        <attr name="speedometerTextColor" format="color" />
+        <attr name="speedometerTextSize" format="dimension" />
+        <attr name="speedometerUnitTextSize" format="dimension" />
+        <attr name="speedometerMaxSpeed" format="integer" />
+        <attr name="speedometerCurrentSpeed" format="float" />
+    </declare-styleable>
+
+    <!-- Custom Trip Stats View Attributes -->
+    <declare-styleable name="TripStatsView">
+        <attr name="statsLabelTextColor" format="color" />
+        <attr name="statsValueTextColor" format="color" />
+        <attr name="statsUnitTextColor" format="color" />
+        <attr name="statsLabelTextSize" format="dimension" />
+        <attr name="statsValueTextSize" format="dimension" />
+        <attr name="statsUnitTextSize" format="dimension" />
+    </declare-styleable>
+</resources>

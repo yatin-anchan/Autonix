@@ -1,0 +1,30 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24"
+    android:tint="?attr/colorControlNormal">
+
+    <!-- Helmet dome -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M4,12a8,8 0 1,1 16,0h-2a6,6 0 1,0 -12,0h-2z" />
+
+    <!-- Strap left -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M8,12v6h2v-6z" />
+
+    <!-- Strap right -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M14,12v6h2v-6z" />
+
+    <!-- Bottom strap connector -->
+    <rect
+        android:fillColor="#000000"
+        android:x="10dp"
+        android:y="17dp"
+        android:width="4dp"
+        android:height="2dp" />
+</vector>

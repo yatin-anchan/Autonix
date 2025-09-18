@@ -1,0 +1,23 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24"
+    android:tint="?attr/colorControlNormal">
+
+    <!-- Outer pin shape -->
+    <path
+        android:fillColor="@android:color/white"
+        android:pathData="M12,2c4.97,0 9,4.03 9,9 0,3.76 -2.58,7.29 -7.74,11.54l-1.26,1.04 -1.26,-1.04C5.58,18.29 3,14.76 3,11c0,-4.97 4.03,-9 9,-9z" />
+
+    <!-- Inner circle (center dot) -->
+    <path
+        android:fillColor="@android:color/white"
+        android:pathData="M12,8a3,3 0 1,0 0,6 3,3 0 0,0 0,-6z" />
+
+    <!-- Strike-through line (to indicate OFF) -->
+    <path
+        android:strokeColor="@android:color/white"
+        android:strokeWidth="2"
+        android:pathData="M4,4 L20,20" />
+</vector>
