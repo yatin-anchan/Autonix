@@ -421,8 +421,9 @@ of this software for educational and research purposes.
 **If this project helps improve road safety, consider giving it a star!**  
 Your support drives innovation in accessible safety technology.
 
-[![GitHub stars](https://img.shields.io/github/stars/yatin-anchan/Autonix?style=social)](https://github.com/yatin-anchan/Autonix/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/yatin-anchan/Autonix?style=social)](https://github.com/yatin-anchan/Autonix/network)
+<!-- [![GitHub stars](https://img.shields.io/github/stars/yatin-anchan/Autonix?style=social)](https://github.com/yatin-anchan/Autonix/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/yatin-anchan/Autonix?style=social)](https://github.com/yatin-anchan/Autonix/network) -->
+
 
 ---
 
