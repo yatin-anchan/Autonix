@@ -260,7 +260,7 @@ cd Autonix
 
 <div align="center">
 
-| <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/droplet.svg" width="20" height="20"> Splash | <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/gauge.svg" width="20" height="20"> Dashboard | <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/bed.svg" width="20" height="20"> Drowsiness | <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/car-burst.svg" width="20" height="20"> Crash |
+| <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/droplet.svg" width="20" height="20"> Splash | <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/gauge.svg" width="20" height="20"> Dashboard | <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/bed.svg" width="20" height="20"> Monitoring | <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/car-burst.svg" width="20" height="20"> Crash |
 |:---:|:---:|:---:|:---:|
 | ![Splash](docs/screenshot-1.png) | ![Dashboard](docs/screenshot-2.png) | ![Drowsy](docs/screenshot-3.png) | ![Crash](docs/screenshot-4.png) |
 
