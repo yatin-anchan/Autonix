@@ -30,11 +30,11 @@ Unlike expensive hardware-dependent systems exclusive to luxury vehicles, Autoni
 
 ### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/bullseye.svg" width="24" height="24"> Core Mission
 
-```
+
 ┌─────────────────────────────────────────────────────────────┐
 │  DETECT → ALERT → PROTECT → RESPOND → ANALYZE → IMPROVE    │
 └─────────────────────────────────────────────────────────────┘
-```
+
 
 </div>
 
