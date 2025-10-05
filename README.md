@@ -96,7 +96,7 @@ Unlike expensive hardware-dependent systems exclusive to luxury vehicles, Autoni
 | **Drowsiness Detection** | Multi-parameter fatigue monitoring using facial landmark analysis | MediaPipe, ML Kit, EAR Algorithm |
 | **Crash Detection** | Impact detection via accelerometer & gyroscope sensor fusion | Real-time Sensor Analysis |
 | **Emergency System** | Automated SOS with GPS coordinates & multi-channel alerts | Firebase Cloud Messaging |
-| **Smart Navigation <br>(In Development)** | Integrated route planning with trip management | OSMdroid, Google Location API |
+| **Smart Navigation <br>(In Development)** | Integrated route planning with trip management | OSMdroid |
 | **Fleet Management <br>(In Development)** | Multi-driver oversight with assignment & tracking | Cloud-based Dashboard |
 | **Analytics Engine** | Performance metrics, safety trends & visual reports | Firebase Analytics |
 | **Privacy First** | On-device detection with encrypted cloud storage | End-to-end Encryption |
@@ -245,7 +245,7 @@ cd Autonix
 - <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/terminal.svg" width="14" height="14"> Android Studio Flamingo or later
 - <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/mobile.svg" width="14" height="14"> Android device (API 29+) or emulator
 - <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/fire.svg" width="14" height="14"> Firebase account with project configured
-- <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/key.svg" width="14" height="14"> Google Maps API key (for navigation features)
+- <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/key.svg" width="14" height="14"> OSMDroid (for navigation features)
 
 #### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/play.svg" width="18" height="18"> Build & Run
 
