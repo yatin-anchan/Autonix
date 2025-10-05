@@ -357,7 +357,7 @@ cd Autonix
 </a>
     <br>
 <br/>
-<a href="https://github.com/maizahshaikh1004](https://github.com/maizahshaikh1004">
+<a href="https://github.com/maizahshaikh1004">
 <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github"/>
 </a>
 </td>
