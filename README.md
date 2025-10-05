@@ -355,6 +355,7 @@ cd Autonix
 <sub><b><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/code.svg" width="14" height="14"> Maizah Shaikh</b></sub><br/>
 <sub>Developer & Researcher</sub>
 </a>
+    <br>
 <br/>
 <a href="https://github.com/maizahshaikh1004](https://github.com/maizahshaikh1004">
 <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github"/>
@@ -367,6 +368,7 @@ cd Autonix
 <sub>Developer & System Architect</sub>
 </a>
 <br/>
+    <br>
 <a href="https://github.com/yatin-anchan">
 <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github"/>
 </a>
