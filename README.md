@@ -14,7 +14,7 @@
 ![Android](https://img.shields.io/badge/Android-10+-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-00D9FF?style=for-the-badge)
 
-🌐  [**Visit Website**](#) | 📖 [**Documentation**](#) | 🐞 [**Report Bug**](https://github.com/yatin-anchan/Autonix/issues)
+🌐  [**Visit Website**](https://yatin-anchan.github.io/AUTONIX-Website/) | 📖 [**Documentation**](#) | 🐞 [**Report Bug**](https://github.com/yatin-anchan/Autonix/issues)
 
 </div>
 
