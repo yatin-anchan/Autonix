@@ -224,7 +224,7 @@ graph TB
 
 <div align="center">
 
-**[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/globe.svg" width="16" height="16"> Visit Official Website](#)** | **[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/google-play.svg" width="16" height="16"> Download APK](#)**
+**[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/globe.svg" width="16" height="16"> Visit Official Website](https://yatin-anchan.github.io/AUTONIX-Website/)** | **[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/google-play.svg" width="16" height="16"> Download APK](https://github.com/yatin-anchan/AUTONIX-Website/releases/download/APP/AUTONIX_v1.0.apk)**
 
 </div>
 
