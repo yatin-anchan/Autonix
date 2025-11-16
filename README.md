@@ -15,7 +15,7 @@
 ![License](https://img.shields.io/badge/License-MIT-00D9FF?style=for-the-badge)
 
 🌐  [**Visit Website**](https://yatin-anchan.github.io/AUTONIX-Website/) | 🔍 [**Research Paper**](https://www.aijfr.com/research-paper.php?id=1559) <br/>
-📖 [**Documentation**](https://drive.google.com/file/d/169wh8a7fB0qaTMDbBEBixVDqTYjoomHM/view?usp=drivesdk)| 🐞 [**Report Bug**](https://github.com/yatin-anchan/Autonix/issues)
+📖 [**Documentation**](https://drive.google.com/file/d/169wh8a7fB0qaTMDbBEBixVDqTYjoomHM/view?usp=drivesdk) | 🐞 [**Report Bug**](https://github.com/yatin-anchan/Autonix/issues)
 
 </div>
 
