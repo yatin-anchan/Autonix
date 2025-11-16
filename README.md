@@ -351,27 +351,42 @@ cd Autonix
 <table>
 <tr>
 <td align="center" width="50%">
-<a href="https://github.com/maizah-shaikh">
-<img src="https://avatars.githubusercontent.com/u/147016503?v=4" width="100px;" alt="Maizah Shaikh" style="border-radius: 50%; border: 3px solid #FF0033;"/><br />
-<sub><b><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/code.svg" width="14" height="14"> Maizah Shaikh</b></sub><br/>
-<sub>Developer & Researcher</sub>
-</a>
-    <br>
-<br/>
 <a href="https://github.com/maizahshaikh1004">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github"/>
+    <img src="https://avatars.githubusercontent.com/u/147016503?v=4" width="100px;" 
+         alt="Maizah Shaikh" 
+         style="border-radius: 50%; border: 3px solid #FF0033;"/>
+    <br/>
+    <sub><b>
+        <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/code.svg" 
+             width="14" height="14"> 
+        Maizah Shaikh
+    </b></sub>
+    <br/>
+    <sub>Developer & Researcher</sub>
+</a>
+<br/><br/>
+<a href="https://github.com/maizahshaikh1004">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github"/>
 </a>
 </td>
+
 <td align="center" width="50%">
 <a href="https://github.com/yatin-anchan">
-<img src="https://github.com/yatin-anchan.png" width="100px;" alt="Yatin Anchan" style="border-radius: 50%; border: 3px solid #FF0033;"/><br />
-<sub><b><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/laptop-code.svg" width="14" height="14"> Yatin Anchan</b></sub><br/>
-<sub>Developer & System Architect</sub>
+    <img src="https://github.com/yatin-anchan.png" width="100px;" 
+         alt="Yatin Anchan" 
+         style="border-radius: 50%; border: 3px solid #FF0033;"/>
+    <br/>
+    <sub><b>
+        <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/laptop-code.svg" 
+             width="14" height="14">
+        Yatin Anchan
+    </b></sub>
+    <br/>
+    <sub>Developer & System Architect</sub>
 </a>
-<br/>
-    <br>
+<br/><br/>
 <a href="https://github.com/yatin-anchan">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github"/>
 </a>
 </td>
 </tr>
