@@ -14,7 +14,7 @@
 ![Android](https://img.shields.io/badge/Android-10+-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-00D9FF?style=for-the-badge)
 
-🌐  [**Visit Website**](https://yatin-anchan.github.io/AUTONIX-Website/) | 🔍 [**Research Paper**](https://www.aijfr.com/research-paper.php?id=1559) | 📖 [**Documentation**](#)| 🐞 [**Report Bug**](https://github.com/yatin-anchan/Autonix/issues)
+🌐  [**Visit Website**](https://yatin-anchan.github.io/AUTONIX-Website/) | 🔍 [**Research Paper**](https://www.aijfr.com/research-paper.php?id=1559) | 📖 [**Documentation**](https://github.com/yatin-anchan/Autonix/blob/0c004c5a1a7d322e4a234fa74b5d4dbd3334ba35/Autonix_BB_new.pdf)| 🐞 [**Report Bug**](https://github.com/yatin-anchan/Autonix/issues)
 
 </div>
 
